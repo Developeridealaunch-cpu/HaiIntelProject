@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pytesseract
+pdf2image
+pillow
+sqlalchemy
+reportlab
+python-multipart
+openai

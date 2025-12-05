@@ -1,0 +1,26 @@
+
+HOW TO RUN EVERYTHING
+
+1) Install dependencies
+
+cd smart-doc-reader
+
+python -m venv venv
+
+.\venv\Scripts\Activate.ps1
+
+pip install -r requirements.txt
+
+2) Generate PDFs
+
+python generate_sample_pdf.py
+
+python generate_12_month_statement.py
+
+python generate_loan_agreement.py
+
+3) Start server
+python -m uvicorn main:app --reload --port 8000
+
+4) Open browser
+http://127.0.0.1:8000/docs
