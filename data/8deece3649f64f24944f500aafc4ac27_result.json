@@ -1,0 +1,14 @@
+{
+  "id": "8deece3649f64f24944f500aafc4ac27",
+  "docType": "statement",
+  "docTypeConfidence": 0.7,
+  "file": "data\\8deece3649f64f24944f500aafc4ac27_sample_statement.pdf",
+  "extracted": {
+    "accountNumber": "123456789012",
+    "period": "Jan-Dec 2024",
+    "avgBalance": 52300.75,
+    "status": "verified"
+  },
+  "confidence": 1.0,
+  "text_snippet": "Sample Bank Statement\nAccount: 123456789012\nPeriod: Jan-Dec 2024\nAverage Balance: 52,300.75\nStatus: verified\n\n"
+}

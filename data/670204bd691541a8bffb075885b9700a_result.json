@@ -1,0 +1,14 @@
+{
+  "id": "670204bd691541a8bffb075885b9700a",
+  "docType": "statement",
+  "docTypeConfidence": 0.8,
+  "file": "data\\670204bd691541a8bffb075885b9700a_statement_12_months.pdf",
+  "extracted": {
+    "accountNumber": "123456789012",
+    "period": "Jan 2024",
+    "avgBalance": null,
+    "status": "verified"
+  },
+  "confidence": 0.8,
+  "text_snippet": "Al National Bank \u2014 12-Month Account Statement\n\nAccount Number: 123456789012\nAccount Holder: John Doe\nPeriod: Jan 2024 \u2014 Dec 2024\nStatus: Verified\n\nMonth Deposits ( ) Withdrawals (_) Closing Balance (_ )\nJan 2024 25,835 14,981 60,854\nFeb 2024 12,954 15,922 57,886\nMar 2024 22,360 11,324 68,922\nApr 2024 23,750 6,531 86,141\nMay 2024 13,664 16,664 83,141\nJun 2024 12,045 11,875 83,311\nJul 2024 25,855 12,926 96,240\nAug 2024 18,813 18,531 96,522\nSep 2024 11,353 10,983 96,892\nOct 2024 25,764 9,335 113,321\nNov 2024 13,222 19,061 107,482\n\nDec 2024 29,631 11,972 125,141\n\nYear-End Summary\n\nFinal Closing Balance: 125,141\nAverage Monthly Balance: 52,300.75\nAccount Status: Verified\n\n"
+}

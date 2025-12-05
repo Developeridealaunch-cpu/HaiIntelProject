@@ -1,0 +1,15 @@
+{
+  "id": "a62a166903c448ebbf46ca981ad0c552",
+  "docType": "loan",
+  "docTypeConfidence": 0.95,
+  "file": "data\\a62a166903c448ebbf46ca981ad0c552_loan_agreement_sample.pdf",
+  "extracted": {
+    "accountNumber": null,
+    "loanAmount": "500,000",
+    "emiAmount": null,
+    "borrowerName": "John Doe",
+    "lenderName": "LENDER"
+  },
+  "confidence": 0.76,
+  "text_snippet": "LOAN AGREEMENT\n\nAgreement Date: 05/12/2025\n\nLENDER: ABC Finance Pvt Ltd\nRegistered Office: 12 Finance Street, Mumbai\n\nBORROWER: John Doe\nAddress: 101 Home Lane, Pune\n\nLOAN TERMS\n\nLoan Amount: 500,000.00\nInterest Rate (p.a.): 10.5%\nTenure: 36 months\n\nEMI (approx): 16,300.00\nStart Date: 01/04/2024\nMaturity Date: 01/04/2027\n\nThis Loan Agreement is made between ABC Finance Pvt Ltd (the 'Lender') and John Doe (the 'Borrower').\n\nThe Lender agrees to lend and the Borrower agrees to borrow the principal sum of 500,000 on the terms set out below.\nThe Borrower shall repay the loan in equated monthly instalments (EMIs) together with interest at the stated rate.\n\nThe Borrower agrees to pay all fees, charges, and costs associated with this loan as set out in the schedule.\n\nSignature of Borrower Authorized signatory, Lender\n\nDocument ID: LN-2024-0001\nSanctioned Amount: 500,000\nEMI Amount: 16,300\nApplicant Name: John Doe\nFinancer: ABC Finance Pvt Ltd\n\n"
+}
