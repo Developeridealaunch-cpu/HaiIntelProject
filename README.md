@@ -1,13 +1,21 @@
 # Smart Document Reader – Task A
 
 A document extraction system supporting:
+
 ✔ Bank statements
+
 ✔ Loan agreements
+
 ✔ OCR extraction (Tesseract)
+
 ✔ PDF → Image (Poppler)
+
 ✔ LLM extraction fallback
+
 ✔ Document classifier
+
 ✔ FastAPI backend
+
 ✔ SQLite storage
 
 ## Setup (Windows)
@@ -39,4 +47,5 @@ Upload any PDF:
 - 12-month statement
 - Loan agreement
 - Simple statement
+
 
